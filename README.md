@@ -11,7 +11,8 @@ Deploy WAF Anywhere with F5 Distributed Cloud
 
 Introduction The target deployment environment has long been a critical factor in selecting WAF products as, typically, specific WAFs were better suited for some but not all environments. Appliance...
 
-
+##  Nginx-plus install in Amazon ec2 instance ##
+https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-plus/
 
 
 
